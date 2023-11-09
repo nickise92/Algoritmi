@@ -1,0 +1,61 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{4}{}%
+\contentsline {section}{\numberline {1.1}Problema dell'elemento minimo di un array}{4}{}%
+\contentsline {subsection}{\numberline {1.1.1}Trovare l'elemento minimo di un array - ragionamento intuitivo}{4}{}%
+\contentsline {subsection}{\numberline {1.1.2}Dimostrazione per assurdo}{4}{}%
+\contentsline {section}{\numberline {1.2}Compessit\`{a}}{5}{}%
+\contentsline {subsection}{\numberline {1.2.1}Concetto di Complessit\`{a}}{5}{}%
+\contentsline {subsection}{\numberline {1.2.2}Alcuni esempi intuitivi}{5}{}%
+\contentsline {subsection}{\numberline {1.2.3}Limite inferiore, limite superiore}{6}{}%
+\contentsline {subsection}{\numberline {1.2.4}Trovare il minimo elemento di un array}{6}{}%
+\contentsline {subsection}{\numberline {1.2.5}Confronto tra algoritmi}{7}{}%
+\contentsline {subsection}{\numberline {1.2.6}Prodotto fra due matrici}{7}{}%
+\contentsline {chapter}{\numberline {2}Notazione asintotica}{9}{}%
+\contentsline {section}{\numberline {2.1}Notazione asintotica}{9}{}%
+\contentsline {subsection}{\numberline {2.1.1}O-grande - $f \in O(g)$}{9}{}%
+\contentsline {subsubsection}{Definizione:}{9}{}%
+\contentsline {subsubsection}{Grafico:}{9}{}%
+\contentsline {subsection}{\numberline {2.1.2}Omega - $f \in \Omega (g)$}{10}{}%
+\contentsline {subsubsection}{Definizione:}{10}{}%
+\contentsline {subsubsection}{Grafico:}{10}{}%
+\contentsline {subsection}{\numberline {2.1.3}Theta - $f \in \Theta (g)$}{10}{}%
+\contentsline {subsection}{\numberline {2.1.4}Esercizio}{10}{}%
+\contentsline {paragraph}{Dimostrazione:}{10}{}%
+\contentsline {subsection}{\numberline {2.1.5}Notazione di uso comune}{12}{}%
+\contentsline {subsection}{\numberline {2.1.6}Equazioni di ricorrenza}{12}{}%
+\contentsline {subsubsection}{Calcolo del fattoriale di un numero}{12}{}%
+\contentsline {section}{\numberline {2.2}Risoluzione di e quazioni di ricorrenza}{12}{}%
+\contentsline {subsection}{\numberline {2.2.1}Risoluzione di equazioni di ricorrenza - Metodo iterativo}{12}{}%
+\contentsline {subsubsection}{Esempio di risoluzione con metodo iterativo}{13}{}%
+\contentsline {subsection}{\numberline {2.2.2}Risoluzione di equazioni di ricorrenza - Metodo di sostituzione}{14}{}%
+\contentsline {subsubsection}{Esempio di risoluzione con metodo di sostituzione}{15}{}%
+\contentsline {paragraph}{Nota:}{15}{}%
+\contentsline {subsection}{\numberline {2.2.3}Teorema dell'esperto - Master Theorem}{15}{}%
+\contentsline {subsubsection}{Esempi}{16}{}%
+\contentsline {paragraph}{Caso 1:}{16}{}%
+\contentsline {paragraph}{Caso 2:}{16}{}%
+\contentsline {paragraph}{Caso 3:}{16}{}%
+\contentsline {paragraph}{Caso 4: non \`{e} possibile applicare il teorema}{17}{}%
+\contentsline {chapter}{\numberline {3}Problema dell'ordinamento}{18}{}%
+\contentsline {section}{\numberline {3.1}Input, output e relazioni di ordinamento}{18}{}%
+\contentsline {paragraph}{Input:}{18}{}%
+\contentsline {paragraph}{Output:}{18}{}%
+\contentsline {paragraph}{Relazione di ordinamento:}{18}{}%
+\contentsline {paragraph}{Nota:}{18}{}%
+\contentsline {section}{\numberline {3.2}Insertion sort}{19}{}%
+\contentsline {subsection}{\numberline {3.2.1}Pseudocodice}{19}{}%
+\contentsline {subsection}{\numberline {3.2.2}Complessit\`{a} di \texttt {INSERTION\_SORT }}{19}{}%
+\contentsline {section}{\numberline {3.3}Merge sort}{20}{}%
+\contentsline {subsection}{\numberline {3.3.1}Pseudocodice}{20}{}%
+\contentsline {subsection}{\numberline {3.3.2}Complessit\`{a} di \texttt {MERGE\_SORT }}{20}{}%
+\contentsline {subsubsection}{Esempio}{20}{}%
+\contentsline {section}{\numberline {3.4}Quick sort}{22}{}%
+\contentsline {subsection}{\numberline {3.4.1}Pseudocodice}{22}{}%
+\contentsline {subsection}{\numberline {3.4.2}Complessit\`{a} di \texttt {QUICK\_SORT }}{22}{}%
+\contentsline {subsection}{\numberline {3.4.3}Rimozione della ricorsione di coda}{23}{}%
+\contentsline {section}{\numberline {3.5}Struttura dati: Heap}{24}{}%
+\contentsline {subsection}{\numberline {3.5.1}Rappresentazione di un albero come array}{24}{}%
+\contentsline {subsection}{\numberline {3.5.2}Heap}{25}{}%
+\contentsline {section}{\numberline {3.6}Heap sort}{26}{}%
+\contentsline {subsection}{\numberline {3.6.1}Complessit\`{a} di \texttt {HEAP\_SORT }}{27}{}%

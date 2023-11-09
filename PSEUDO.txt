@@ -1,0 +1,11 @@
+INSERTION_SORT(A)
+    FOR j <- 2 TO LENGTH(A)
+        KEY <- A[j]
+        i <- j-1
+        WHILE i > 0 AND A[i] > KEY
+            A[i+1] <- A[i]
+            i <- i - 1
+        A[i+1] <- KEY
+
+
+
